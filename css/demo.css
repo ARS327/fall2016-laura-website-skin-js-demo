@@ -1,0 +1,66 @@
+#pink-button {
+	background-color: #ff99ff;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#blue-button {
+	background-color: #80b3ff;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#random-button {
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+	padding: 10px;
+}
+
+
+
+/* PINK THEME */
+
+.pink-body {
+	background-color: #ffccff;
+}
+
+.pink-heading {
+	color: #000;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.pink-text {
+	color: #ff3377;
+	font-family: sans-serif;
+	width: 500px;
+}
+
+.pink-link {
+	font-family: sans-serif;
+	color: #777;
+}
+
+
+/* BLUE THEME */
+
+.blue-body {
+	background-color: #99ccff;
+}
